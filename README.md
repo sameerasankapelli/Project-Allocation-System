@@ -29,11 +29,17 @@ This is a web application built using **Flask** and **MySQL** to automate projec
 - **Admin Dashboard**: Displays employee list, project list,Add user,Add project and real-time project allocations with status updates. Admins can also export data if needed.
 - **Employee Dashboard**: Shows the specific project assigned to the logged-in employee and lets them update its progress.
 These outputs make the system efficient for both managing and working on tasks.
+
 **Login.html**
+
 ![Screenshot 2025-05-27 102813](https://github.com/user-attachments/assets/d4842abc-e9c6-4334-8fd7-57d2fe8e9fe3)
+
 **Admin Dashboard**
+
   ![Screenshot 2025-05-27 103002](https://github.com/user-attachments/assets/08cb6044-de53-4bd1-8af1-4d82d0ef49a7)
+  
 **Employee Dashboard**
+
 ![Screenshot 2025-05-27 103432](https://github.com/user-attachments/assets/c2b82172-0c57-4fef-b51a-f26a1ffd3d21)
 
 ### 6.FUTURE RESEARCH:
